@@ -1,0 +1,1 @@
+alert('Bızdıkify is on your command!')
